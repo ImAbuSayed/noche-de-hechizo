@@ -1,4 +1,4 @@
-# Noche de hechizo
+# Noche de hechizo, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Noche de hechizo |
+| **Title** | Noche de hechizo, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-hechizo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Noche de hechizo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-hechizo/) |
+| **Get License** | [License this song: Noche de hechizo, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-hechizo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bajo la luna en Madrid, tú me tienes hechizado
+> Ese brillo en tu mirada me ha dejado hipnotizado
+> Nena, ven y pégate, que el deseo está activado
+> La noche es de los dos, y el destino está marcado
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c3456a072493350231eecddf7113d6e05bd96957c22a5127ed2336cd0997e2a4` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
